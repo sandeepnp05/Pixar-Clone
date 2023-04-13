@@ -121,7 +121,7 @@ header image with parallax
  .all-footer{
     margin-bottom: 60px;
  }
- @media screen and (max-width: 640px) {
+ @media screen and (max-width: 540px) {
     .menu-btn{
     display: block;
     font-size: 12px;
